@@ -16,8 +16,8 @@ To set up this project, simply install Docker and Docker Compose, and run the fo
 ```bash
 docker-compose up
 
-Contributing
+## Contributing
 If you're interested in contributing to this project, please refer to the CONTRIBUTING.md file.
 
-License
+## License
 This project is licensed under the MIT License.

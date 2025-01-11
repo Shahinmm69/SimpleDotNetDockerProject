@@ -9,15 +9,16 @@ This project is a web application developed in .NET that is fully dockerized and
 - **Alerts**: Alert Manager is set up to send alerts in case of issues with the application.
 - **Health Check**: Health Check is implemented to ensure the application's health.
 
-## Setup
+## Contributing
+If you're interested in contributing to this project, please refer to the CONTRIBUTING.md file.
+
+# License
+This project is licensed under the MIT License.
+
+## Setupg
 
 To set up this project, simply install Docker and Docker Compose, and run the following command:
 
 ```bash
 docker-compose up
 
-## Contributing
-If you're interested in contributing to this project, please refer to the CONTRIBUTING.md file.
-
-## License
-This project is licensed under the MIT License.
